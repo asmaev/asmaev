@@ -18,7 +18,7 @@ Passionate about bridging business understanding with technical analysis.
 - 🏢 Former **Data Analyst @ Orange SA** — built a national Power BI dashboard with ~€1M in projected savings  
 - 🏭 Former **Data Analyst @ OCP Group** — tracked industrial KPIs and production performance  
 - 🌍 Trilingual: **French** (C1) · **English** (C1) · **Arabic** (native)  
-- 📫 Reach me: [LinkedIn]([[https://linkedin.com](https://www.linkedin.com/in/asmae-noufoussi/)]()) 
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/asmae-noufoussi/)
 
 ---
 
