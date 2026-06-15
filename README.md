@@ -18,7 +18,7 @@ Passionate about bridging business understanding with technical analysis.
 - 🏢 Former **Data Analyst @ Orange SA** — built a national Power BI dashboard with ~€1M in projected savings  
 - 🏭 Former **Data Analyst @ OCP Group** — tracked industrial KPIs and production performance  
 - 🌍 Trilingual: **French** (C1) · **English** (C1) · **Arabic** (native)  
-- 📫 Reach me: [LinkedIn](https://linkedin.com) <!-- replace with your actual link -->
+- 📫 Reach me: [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/asmae-noufoussi/)) 
 
 ---
 
@@ -40,7 +40,7 @@ Passionate about bridging business understanding with technical analysis.
 
 | Project | Description | Tools |
 |---|---|---|
-| 🛒 [Sales Performance Dashboard](#) | End-to-end sales analysis with KPIs & visualizations | Python, Excel, Power BI |
+| 🛒 [Sales Performance Dashboard](#) | End-to-end sales analysis with KPIs & visualizations | Python (Pandas, Matplotlib, Seaborn), JupyterLab|
 | 📉 [Customer Churn Analysis](#) | Predict & explain churn with EDA and business insights | Python, SQL, Matplotlib |
 | 💰 [Personal Finance Tracker](#) | Real-life spending analysis & budget dashboard | Python, Excel |
 
